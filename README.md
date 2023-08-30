@@ -8,7 +8,7 @@ This Streamlit application was created as a part of the Week 8 TDS Assignment fo
 
 The primary use case of this application is to determine the largest number among three given values, where one value is greater than the other two.
 
-### How to Use
+### How to Do It !!
 
 1. **Create the Streamlit Application**: Start by creating a Python file named `largest_number_app.py` and add the required code to implement the functionality.
 
